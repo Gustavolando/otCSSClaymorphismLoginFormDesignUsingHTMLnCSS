@@ -1,6 +1,6 @@
 ## CSS Claymorphism Login Form Design using Html & CSS
 
-This is nice claymorphism CSS style web form.
+This is a nice claymorphism CSS style web form.
 
 I practiced here shadows, borders, ion-icons and colorful and styled composition.
 
